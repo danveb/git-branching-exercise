@@ -1,0 +1,20 @@
+Branching Exercise
+Part I
+Answer the following questions:
+
+1. What git command creates a branch?
+git checkout -b 
+
+2. What is the difference between a fast-forward and recursive merge?
+Fast forward happens whenever there are no commits on original branch while new branch is being worked on 
+
+3. What git command changes to another branch?
+git checkout 
+
+4. What git command deletes a branch?
+git branch -d 
+
+5. How do merge conflicts happen?
+Merge conflict happens when git can't determine which file/folder to choose when merging because of different commits done to same file 
+
+
