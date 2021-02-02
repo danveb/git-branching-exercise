@@ -9,7 +9,7 @@ git checkout -b
 Fast forward happens whenever there are no commits on original branch while new branch is being worked on 
 
 3. What git command changes to another branch?
-git checkout 
+git checkout (branch name) 
 
 4. What git command deletes a branch?
 git branch -d 
